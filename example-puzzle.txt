@@ -1,0 +1,4 @@
+apple orange banana mango
+dog cat mouse bat
+atlas encyclopedia dictionary thesaurus
+door roof wall floor
